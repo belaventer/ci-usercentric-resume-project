@@ -21,7 +21,7 @@ Link to GitHub Page can be found [here](#)
 * Have a contact to follow up or for further info
 ## Strategy
 This website is being developed for Rosie to showcase her skills and work experience.
-The website will have consistency to provide better user experience.
+The website will have consistency to provide better user experience and use the Rule of Thirds.
 
 ## Scope
 Brief scope description - what is on your project to achieve its purpose
@@ -33,9 +33,9 @@ Brief structure descriptiono - how to display what is on your project
 [Wireframe 3](#)  
 ## Surface
 ###     Color Scheme
-Include color scheme picked and reason
+
 ###     Typography
-Include typography picked and reason
+Typography used is Roboto and Exos for readbility.
 ###     Imagery
 Explain images used and why
 
@@ -44,14 +44,14 @@ List of features on project, as responsive on all devices and list of interactiv
 
 # Technologies Used
 ## Languages Used
-* Language 1
-* Langrage 2
+* HTML5
+* CSS
 ## Libraries, frameworks & programs
-* Library/framework or program 1:
+* Bootstrap:
         quick description where applied
-* Library/framework or program 2:
+* Font Awesome:
         quick description where applied
-* Library/framework or program 3:
+* Hover.css:
         quick description where applied
 
 # Testing
